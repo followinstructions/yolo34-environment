@@ -1,4 +1,3 @@
-# yolo34-environment
 
 # Setting up yolo34 environment
 
